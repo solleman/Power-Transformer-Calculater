@@ -1,6 +1,6 @@
 # Power Transformer Calculator 
 
-# Java Gui tool to calculate a Power Transformer  ( EI-Laminations )
+ Java Gui tool to calculate a Power Transformer  ( EI-Laminations )
  
  NB : Gui - screen example is in the package.
  
